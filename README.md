@@ -1,4 +1,4 @@
-# Using a helath survey to predict heart disease or attack
+# Using a health survey to predict heart disease or attack
 The data set that I used was collected through a phone interview across the U.S. about health risks in 2015. 
 
 Author: Mary Burns
