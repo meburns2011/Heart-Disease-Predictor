@@ -3,7 +3,8 @@ The data set that I used was collected through a phone interview across the U.S.
 
 Author: Mary Burns
 
-# Data: Most of the questions are yes or no questions asking whether or not someone is physically active, has high blood pressure or has been asked by their doctor to check for high cholesterol. Some of the questions are scaled into groups such as age or how many days a month someone has poor mental health. Some of these questions require more detailed answers to get a better idea of what lifestyle the patients are living. 
+# Data: 
+Most of the questions are yes or no questions asking whether or not someone is physically active, has high blood pressure or has been asked by their doctor to check for high cholesterol. Some of the questions are scaled into groups such as age or how many days a month someone has poor mental health. Some of these questions require more detailed answers to get a better idea of what lifestyle the patients are living. 
 Specifically there should be more detailed questions over smoking habits and physical acitvity. The survey only asked if a person had ever smoked 5 packs of cigarettes in their life which skews the data. This is because lungs can heal from smoking after 2 years of stopping and theoretically would lower that person's chance of heart disease. The survey also only asks whether the person has been physically active at all in 30 days. 1 day of physical acitvity is not the same as 24 days of physical activity. This also skews the data. 
 
 # Data preparation
